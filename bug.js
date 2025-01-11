@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android APK. The build process fails and outputs an error message similar to `Execution failed for task ':app:processDebugResources'. > A failure occurred while executing com.android.build.gradle.internal.tasks.Workers$ActionFacade > Android resource linking failed
